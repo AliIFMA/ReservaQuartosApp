@@ -1,0 +1,15 @@
+﻿Aplicativo
+
+
+O RoomBook é um aplicativo desenvolvido para reserva de quartos. Ao inserir as datas da viagem, o usuário tem acesso imediato à disponibilidade de quartos nos melhores hotéis da região. O aplicativo permite a escolha do tipo de quarto e realiza automaticamente o cálculo do valor total da estadia.
+
+
+Integrantes
+
+
+Sara Evelin de Sousa Neves
+Yuri Filipe Silva Neves 
+Alisson Leal dos Santos
+Hevelyn Victória da Cunha Sousa
+Larisa Yasmin Ferreira Rodrigues
+Hevelyn Victória Cunha Souza
